@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "Tacorita Bicicleta", "price": 5, "type": "Pet", "desc": "Beliebtes Einstiegs-Secret.", "image": "/tacorita.png" },
+  { "id": 2, "name": "Dragon Cannelloni", "price": 28, "type": "Pet", "desc": "Luxus Secret", "image": "/dragon.png" },
+  { "id": 3, "name": "Quesadilla", "price": 4, "type": "Pet", "desc": "Schneller Profit Secret", "image": "/quesadilla.png" },
+  { "id": 4, "name": "No My Hotspot", "price": 4, "type": "Pet", "desc": "Kleineres Secret", "image": "/hotspot.png" },
+  { "id": 5, "name": "Los Combi", "price": 4, "type": "Pet", "desc": "Einsteiger Pet", "image": "/loscombi.png" },
+  { "id": 6, "name": "Private Server 1 Monat", "price": 1.0, "type": "Service", "desc": "79 Robux In-Game Wert", "image": "/server1.png" },
+  { "id": 7, "name": "Private Server 2 Monate", "price": 2.0, "type": "Service", "desc": "Doppelte Laufzeit", "image": "/server2.png" },
+  { "id": 8, "name": "Secret Lucky Block", "price": 10.0, "type": "Item", "desc": "Seltenster Lucky Block", "image": "/secretblock.png" },
+  { "id": 9, "name": "Admin Lucky Block", "price": 8.0, "type": "Item", "desc": "Besonderer Lucky Block", "image": "/adminblock.png" },
+  { "id": 10, "name": "Spooky Lucky Block", "price": 7.0, "type": "Item", "desc": "Halloween Edition", "image": "/spookyblock.png" },
+  { "id": 11, "name": "Los Lucky Blocks", "price": 5.0, "type": "Item", "desc": "Standard Lucky Blocks", "image": "/losblocks.png" }
+]
