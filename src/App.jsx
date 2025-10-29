@@ -18,7 +18,7 @@ function App() {
     const price = parseFloat(prompt("Preis in Euro:"));
     const image = prompt("Dateiname des Bildes (z. B. dragon.png):");
     const desc = prompt("Beschreibung:");
-    const newProduct = { id: Date.now(), name, price, image: /${image}, desc };
+   const newProduct = { id: Date.now(), name, price, image: `/${image}`, desc };
     setProducts([...products, newProduct]);
     alert("Produkt hinzugefügt (lokal). Um es für alle sichtbar zu machen, bitte in products.json auf GitHub eintragen!");
   };
